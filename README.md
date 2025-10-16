@@ -28,14 +28,14 @@ This project is a simple calculator application built with HTML, CSS, and JavaSc
 - Frontend: HTML, CSS, JavaScript
 
 # Setup Instructions
-- Clone the Repository:
-bash
-git clone https://github.com/aishwarya-41/simple_calculator.git
-cd simple_calculator
-Run Locally:
+- Clone the Repository: <br>
+bash <br>
+git clone https://github.com/aishwarya-41/simple_calculator.git <br>
+cd simple_calculator <br>
 
-- Open index.html in your preferred browser.
-(No additional setup required!)
+- Run Locally: <br>
+Open index.html in your preferred browser. <br>
+(No additional setup required)
 
 # Usage
 - Enter numbers using the on-screen buttons.
